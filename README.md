@@ -1,4 +1,5 @@
 [![codecov](https://codecov.io/gh/pliniomikael/life_discount/branch/main/graph/badge.svg?token=D5VE7UY08O)](https://codecov.io/gh/pliniomikael/life_discount)
+<img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/pliniomikael/life_discount/Django%20CI">
 <h1 align="center">
     <img alt="DevRadar" title="#delicinha" src="https://thiagorodrigo.com.br/images/avidaefeitadedesconto-logo.png" width="200px" />
 </h1>
