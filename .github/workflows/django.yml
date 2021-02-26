@@ -27,9 +27,8 @@ jobs:
         pip install -r requirements.txt
     - name: Run Tests
       run: |
-        py.test --cov=./ --cov-report=xml
-    - after_success:
-        codecov
+        py.test
     - name: Upload Coverage to Codecov
       run: |
-        bash <(curl -s https://codecov.io/bash)
+        bash <(curl -s https://codecov.io/bash)  
+        
